@@ -31,3 +31,6 @@ simulation does not award the user for rash driving.<br>
 - Yashvardhan Agnihotri<br>
 - Priyadarshini Sharma
 
+<a href="https://github.com/25011908vardhan/AR-VR-Project/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=25011908vardhan/AR-VR-Project" />
+</a>
